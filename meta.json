@@ -8,21 +8,22 @@
                 }
             },
             "assets": {
-                "65b8691bdee5520c50b2a13a": {
+                "65bfd21ae15487118c86d0d3": {
+                    "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
+                    "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
                     "externalStorageType": "GCS",
-                    "_id": "65b8691bdee5520c50b2a13a",
+                    "externalName": "users/65b2788525f66b709cbc0417/projects/65bfd21ae15487118c86d0cf/assets/65bfd21ae15487118c86d0d3",
+                    "backendURI": "/project/65bfd21ae15487118c86d0cf/getasset/65bfd21ae15487118c86d0d3",
                     "size": "53612",
                     "mimetype": "image/png",
                     "encoding": "7bit",
-                    "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "backendURI": "/project/65b85f25bf29bab43ad5c568/getasset/65b8691bdee5520c50b2a13a",
-                    "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "externalName": "users/65b2788525f66b709cbc0417/projects/65b85f25bf29bab43ad5c568/assets/65b8691bdee5520c50b2a13a",
+                    "_id": "65bfd21ae15487118c86d0d3",
                     "createdAt": "2024-01-30T03:12:28.363Z",
                     "updatedAt": "2024-01-30T03:12:28.363Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65b2788525f66b709cbc0417/projects/65b85f25bf29bab43ad5c568/assets/65b8691bdee5520c50b2a13a?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240201%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240201T162411Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=133e4bb1d21b4fd8439c659ab4100a3b43ad06f7246dcf7d234ea6972f868540198adff1928c63f0e0728491972d7687e5fc2699cd6482e6dc64af74f575b4c91683283558c63245895afedbc99e3c063cec470297c8d17e1c10f384826854c19675aa7c78062abc34c5cc91511bb1b930b4115b55f7d77440c4a5d3da07adc2ad624f6c6a0edb51c3253f02df1393b0307f7331da515c23c0096a23858bf6c8d0eb7d1535d11a71432e4997e81ebc04ec612fbe6da85454fc27afa56b39a636bf9003fa83289ca16a5a5edc117961fe598a1731a46beb52d7692c5905147b75d8e8e5ad8cafd841ef1bd7050b09eea48e65b1e9007b536060931c10c9452b99",
-                    "signedUrlExpirationTime": 1706977451234
+                    "id": "65bfd21ae15487118c86d0d3",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65b2788525f66b709cbc0417/projects/65bfd21ae15487118c86d0cf/assets/65bfd21ae15487118c86d0d3?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240204%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240204T180632Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a7b73cefb3a6042f7fc6743561e41b52d597d442389aaf713319f04d61b7d53c7e5adde5c7e301beae72ba92bc0165fcc505f7e7603d9130b57c7ebe051cd868ff3d3bdf8bf97be3c0af34f56bc7dd574b7135ea32ba34a541decd7f89b314c26978efe0b7dd36be63e2e99ace14c6c4a389f7c80a12467e0e3a85e061f9e84262e547ca59d335a9d0ddca782b5c8704d8a9f885a7fc5bb09f2e63415381b714666b8aac7120cea37b84148ea3381b1704985fae0f03be2c3059b0882eab94b5c0987505e2b98a5708fee4925520994bb0d2c0deac8d869c54d3e83c8d7279fdf3d821bcb78340f29154968951b0ac82fe8f92fe03d0c12d47c97beafb9dc957",
+                    "signedUrlExpirationTime": 1707242792052
                 }
             },
             "backendUpgradeVersion": 24,
@@ -91,7 +92,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera",
+            "projectName": "Camera With Confirmation",
             "settings": {
                 "teamId": null,
                 "appName": "CameraApp",
@@ -125,7 +126,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -174,7 +175,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
